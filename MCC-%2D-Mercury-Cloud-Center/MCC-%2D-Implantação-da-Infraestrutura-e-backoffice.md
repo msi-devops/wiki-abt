@@ -1,5 +1,8 @@
 Checklist:
 
+- Para o MCC será preciso a implantação do GAMA e do MCC
+  R: Não existe MCC sem o gerenciamento de acesso realizado pelo GAMA
+
 - Criação das URLS na AWS, definição de IPs e de portas a serem utilizadas / redirecionadas
   R: Solicitar ao administrador de infra para que crie as URLS de forma padronizada. deverão ser criadas, inicialmente, duas URL´s.
      Uma para o gama e outra para o mcc:
@@ -7,8 +10,7 @@ Checklist:
      EX: https://gama.hml.martonis.net/ ou gama.jundiai.prodatamobility.com.br
          https://portal.mcc.hml.martonis.net ou portal.mcc.jundiai.prodatamobility.com.br
 
-- Para o MCC será preciso a implantação do GAMA e do MCC
-  R: Não existe MCC sem o gerenciamento de acesso realizado pelo GAMA
+
     
 
 - Criação do banco de dados ORACLE do Gama
