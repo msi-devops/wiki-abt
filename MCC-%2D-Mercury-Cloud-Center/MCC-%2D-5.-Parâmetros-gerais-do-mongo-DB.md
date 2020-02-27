@@ -5,7 +5,7 @@ Dentro do MCC, existem básicamente 5 collections
 - [base](/MCC-%2D-Mercury-Cloud-Center/MCC-%2D-5.-Parâmetros-gerais-do-mongo-DB/MCC-%2D-5.1-Mongo-DB-%2D-base)
 - [projeto_mcc_broker](/MCC-%2D-Mercury-Cloud-Center/MCC-%2D-5.-Parâmetros-gerais-do-mongo-DB/MCC-%2D-5.2-Mongo-DB-%2D-mcc_broker)
 - [projeto_mcc_monitor](/MCC-%2D-Mercury-Cloud-Center/MCC-%2D-5.-Parâmetros-gerais-do-mongo-DB/MCC-%2D-5.3-Mongo-DB-%2D-mcc_monitor)
-- projeto_mcc_portal
+- [projeto_mcc_portal](/MCC-%2D-Mercury-Cloud-Center/MCC-%2D-5.-Parâmetros-gerais-do-mongo-DB/MCC-%2D-5.4-Mongo-DB-%2D-mcc_portal)
 - projeto_mcc_processor
 
 Segue exemplo de jundiai abaixo:
