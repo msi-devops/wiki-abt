@@ -7,6 +7,9 @@ Checklist de Ambiente de garagem e sua infraestrutura:
 
 - Ajuste das tasks de comunicação
   R: Para o funcionamento do MCC, será preciso que o arquivo PAR2 esteja subindo durantes as comunicações. 
+Exemplo: 
+![image.png](/.attachments/image-910d1c39-27eb-402a-ba45-70fb6b2e449d.png)
+<BR>
 
 - Instalação dos chips de dados nos validadores.
   R: Sem dados o MCC não funcionará.
