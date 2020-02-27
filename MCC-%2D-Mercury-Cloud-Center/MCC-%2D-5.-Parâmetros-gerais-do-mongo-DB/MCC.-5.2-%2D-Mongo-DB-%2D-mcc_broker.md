@@ -3,7 +3,7 @@ As configurações do Projeto_mcc_broker fazem referencias as configurações so
 ![image.png](/.attachments/image-22e18abc-3210-4a3f-a2a0-66f28013ff0e.png)
 
 
-id e active são repectivamente o id da collection e se a mesma encontra-se ativa ou não.
+id e active são respectivamente o id da collection e se a mesma encontra-se ativa ou não.
 Os demais campos referenciam:
 <br>
 
@@ -41,5 +41,24 @@ Parâmetros que condicionam o funcionamento da recarga pelo MCC:
 
 _reject_
 
+Descobrir para que serve
 ![image.png](/.attachments/image-ea62a95a-ab63-4fff-8228-8154c740e6a1.png)
+
+_transactionsptrans_
+
+Provável parâmetro para utilizar no projeto Sptrans, ou, para realizar a integração com eles.
+![image.png](/.attachments/image-199c2bf0-604f-496a-8009-d089ad0f13e7.png)
+
+
+_ConfigSync_
+
+Esse parâmetro deve ser para fazer a sincronização das configurações relacionadas a esta collection.
+
+![image.png](/.attachments/image-5121f8ca-fcec-46c7-b7ab-51a3619af1bd.png)
+
+
+_migration_
+
+Descobrir para que serve:
+![image.png](/.attachments/image-e011a17a-d018-4b5c-b268-9b3b755f5ddf.png)
 
