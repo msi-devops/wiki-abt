@@ -19,5 +19,5 @@ A implantação do MCC pode ser resumida em 3 etapas.
 
 Mais sobre o MCC:
 
-- 4. Manual de Operação
-- 5. Descrição dos parâmetros utilizados no MongoDB
+- 4. [Manual de Operação](/MCC-%2D-Mercury-Cloud-Center/4.-Manual-de-operação)
+- 5. [Descrição dos parâmetros utilizados no MongoDB](/MCC-%2D-Mercury-Cloud-Center/5.-Parâmetros-gerais-do-mongo-DB)
