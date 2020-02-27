@@ -1,11 +1,11 @@
 O portal de gerenciamento do sistema fornece as interfaces necessárias para monitoramento e parametrização do sistema, tais como:
 
-- Monitoramento da conectividade dos validadores;
-- Monitoramento do sincronismo das listas entre servidor / equipamentos;
-- Monitoramento de transações;
-- Estatísticas das recargas efetivadas (sincronizadas pelo MCC);
-- Relatórios resumidos e detalhados por veículo / dia;
-- Configurações de regras de comunicação e envio de registros;
+- Monitoramento da conectividade dos validadores.
+- Monitoramento do sincronismo das listas entre servidor / equipamentos.
+- Monitoramento de transações.
+- Estatísticas das recargas efetivadas (sincronizadas pelo MCC).
+- Relatórios resumidos e detalhados por veículo / dia.
+- Configurações de regras de comunicação e envio de registros.
 
 
 O MCC deverá respeitar as regras definidas pela coordenação de projetos em conjunto com o Projeto em si, levando sempre em consideração as regras já aplicadas no Mercury.
