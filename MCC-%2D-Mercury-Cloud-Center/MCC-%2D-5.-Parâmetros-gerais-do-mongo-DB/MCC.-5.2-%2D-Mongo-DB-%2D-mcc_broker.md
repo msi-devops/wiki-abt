@@ -1,3 +1,5 @@
+**MCC_BROKER**
+
 As configurações do Projeto_mcc_broker fazem referencias as configurações sobre a ativação ou não do Hotlist, da Recarga, entre outros.
 <br>
 ![image.png](/.attachments/image-22e18abc-3210-4a3f-a2a0-66f28013ff0e.png)
