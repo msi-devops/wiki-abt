@@ -15,8 +15,20 @@ Checklist:
   EX: ![image.png](/.attachments/image-8ff9907f-a99e-4d05-a22e-bcf4fc4b2185.png)
 
 - Ajuste do banco Oracle - Mercury para MCC (inserção de objetos)
+  R: O MCC também utiliza-se da base de dados do Mercury pré-existente no projeto. Abrir atividade para o DBA para que execute esses scripts.
+
 - Criação dos MongoDB para o Gama e MCC
+   R: Deverão ser criados os banco de dados MongoDB e ajustados na publicação do projeto.
+   Provavelmente todos utilizarão o Mongo Atlas.
+
 - Ajuste das aplicações para o projeto, com as informações que forem geradas a cima
+  R: Com as regras de negócios definidas pela equipe de coordenação, será preciso ajustar o parametros no Mercury e mongo DB.
+
+- Obtenção da Chave PEM
+  R: A infraestrutura deverá fornecer a chave para acesso via ssh ai servidor na AWS.
+
 - Clone do repositório para o AWS
-- Publicação dos módulos ja ajustados
-- testes
+  R: Enviar os arquivos do projeto para o servidor.
+
+- Publicação dos módulos ja ajustados, com as informações do banco de dados Mercury e Oracle.
+
