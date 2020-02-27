@@ -2,17 +2,102 @@ Aqui ficam as configurações que dinamizam a apresentação das informações n
 
 ![image.png](/.attachments/image-affc538b-8546-4a37-ba46-c7514d922b60.png)
 
+<br>
+<br>
+
+
+
 _bootstrap_
 
 checar para que serve:
 ![image.png](/.attachments/image-9a0e87d5-37d9-42f0-b068-ddb7c04cfaf9.png)
+
+<br>
+<br>
+
+
 
 _lastOnlineRecharge_
 Esse parametro condiciona a seguinte função do MCC
 
 ![image.png](/.attachments/image-3dbce0cf-7809-4e5d-86a3-1c38ec4cce25.png)
 
+Veja que a estratificação realizada na configuração é explicitada no portal.
 
 ![image.png](/.attachments/image-3a8592ea-fb75-46f7-80e6-d35047f116d3.png)
+
+<br>
+<br>
+
+
+_lastRechargedate_
+
+![image.png](/.attachments/image-efff63a8-1d61-4ab0-8a17-5fc3420e9cb8.png)
+
+<descobrir onde são exibidas essas classe de tempo>
+
+<br>
+<br>
+
+
+
+_mcc_configs_
+
+Ativa ou não o alerta no MCC se existem veículos desatualizados/offline(?) e define o tempo para as classes (inicia, mediana, ultima)
+
+![image.png](/.attachments/image-691207af-7126-48f4-bbd0-bfe30164a124.png)
+
+<Descobrir onde é exibido isso no MCC>
+
+
+<br>
+<br>
+
+
+
+_pendingTransactions_
+
+Classes referentes as transações pendentes
+
+![image.png](/.attachments/image-a8a322f4-61ac-439a-ad4c-0bd32bb7c364.png)
+
+<verificar onde essas informações são apresentadas>
+
+<br>
+<br>
+
+
+
+_ssl_
+
+Algum certificado que poderia ser utilizado.
+<Checar para ver se realmente vai ser utilizado>
+
+![image.png](/.attachments/image-6d3ad25f-95a7-485e-9b65-ea63179f2775.png)
+
+
+_summary_
+
+Dentro de sumary temos o _lastOnline_ e o _lastOnlineGPS_ que também separam em classes de tempo algumas informações sobre comunicação dos veículos.
+
+![image.png](/.attachments/image-439cca84-3c9d-4104-825f-7dfbf4811918.png)
+
+<checar no portal aonde essas infos são apresentadas>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
