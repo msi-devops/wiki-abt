@@ -3,6 +3,6 @@ O MCC deverá respeitar as regras definidas pela coordenação de projetos em co
 
 A implantação do MCC pode ser resumida em 3 etapas.
 
-- Definição das regras de negócio
-- Implantação do backoffice
-- Implantação do ambiente de garagem
+- 1. Definição das regras de negócio
+- 2. Implantação do backoffice
+- 3. Implantação do ambiente de garagem
