@@ -17,5 +17,7 @@ MCC - MongoDB - Collection Broker
 - Range de dias para os logs do AVL 
 - Ocorrerá o bloqueio por hotlist?
 - Qual o limite de registros de Hotlist?
+- Se o cartão é rejeitado, deverá persistir seu bloqueio?
+- 
 
 
