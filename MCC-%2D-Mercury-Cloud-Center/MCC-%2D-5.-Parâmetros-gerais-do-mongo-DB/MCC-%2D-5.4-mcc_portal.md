@@ -13,3 +13,6 @@ Esse parametro condiciona a seguinte função do MCC
 ![image.png](/.attachments/image-3dbce0cf-7809-4e5d-86a3-1c38ec4cce25.png)
 
 
+![image.png](/.attachments/image-3a8592ea-fb75-46f7-80e6-d35047f116d3.png)
+
+
