@@ -9,9 +9,10 @@ Aqui ficam as configurações que dinamizam a apresentação das informações n
 
 _bootstrap_
 
-checar para que serve:
+Versão do bootstrap usado.
 ![image.png](/.attachments/image-9a0e87d5-37d9-42f0-b068-ddb7c04cfaf9.png)
 
+maiores informações sobre: https://getbootstrap.com/docs/4.1/getting-started/introduction/
 <br>
 <br>
 
