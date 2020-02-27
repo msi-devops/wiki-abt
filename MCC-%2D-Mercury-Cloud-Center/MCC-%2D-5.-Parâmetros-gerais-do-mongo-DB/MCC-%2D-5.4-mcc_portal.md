@@ -8,6 +8,7 @@ checar para que serve:
 ![image.png](/.attachments/image-9a0e87d5-37d9-42f0-b068-ddb7c04cfaf9.png)
 
 _lastOnlineRecharge_
+Esse parametro condiciona a seguinte função do MCC
 
 ![image.png](/.attachments/image-3dbce0cf-7809-4e5d-86a3-1c38ec4cce25.png)
 
