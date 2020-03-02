@@ -1,11 +1,12 @@
-O portal de gerenciamento do sistema fornece as interfaces necessárias para monitoramento e parametrização do sistema, tais como:
+O Mercury Cloud Center é uma aplicação, desenvolvida pela Prodata Mobility,  que permite a monitoração do sistema de bilhetagem em tempo real.
 
-- Monitoramento da conectividade dos validadores.
-- Monitoramento do sincronismo das listas entre servidor / equipamentos.
-- Monitoramento de transações.
-- Estatísticas das recargas efetivadas (sincronizadas pelo MCC).
+Com o mesmo é possível:
+
+- Monitorar a conectividade dos validadores com a nuvem.
+- Monitorar o sincronismo das listas de recarga online e de hotlist online entre servidor / equipamentos.
+- Monitorar as transações, tanto de uso quanto de bloqueio, tem tempo real.
+- Apresentação de estatísticas das recargas efetivadas, descarregáveis em relatórios.
 - Relatórios resumidos e detalhados por veículo / dia.
-- Configurações de regras de comunicação e envio de registros.
 
 
 O MCC deverá respeitar as regras definidas pela coordenação de projetos em conjunto com o Projeto em si, levando sempre em consideração as regras já aplicadas no Mercury.
