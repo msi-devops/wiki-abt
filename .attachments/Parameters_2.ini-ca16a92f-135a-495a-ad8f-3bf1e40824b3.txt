@@ -1,0 +1,12 @@
+[GENERAL]
+OFFSET = 0
+
+[RECORD]
+DESCR   = "Parameter Record"
+FIELD1  = UDWORD "%d" "Identifier"
+FIELD2  = STRING "%s" "AF_Deamon_URL" 256
+FIELD3  = STRING "%s" "MCC_URL" 256
+FIELD4  = STRING "%s" "ABT_URL" 256
+FIELD5  = UWORD "%d" "ABTAPPID" 
+FIELD6 	= BYTE "%d" "QRCODE_ENABLE" 
+FIELD7	= BYTE "%d" "FILLER"
