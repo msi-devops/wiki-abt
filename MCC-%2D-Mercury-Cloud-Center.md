@@ -4,7 +4,7 @@ Com o mesmo é possível:
 
 - Monitorar a conectividade dos validadores com a nuvem.
 - Monitorar o sincronismo das listas de recarga online e de hotlist online entre servidor / equipamentos.
-- Monitorar as transações, tanto de uso quanto de bloqueio quanto das utilizações e em tempo real.
+- Monitorar as transações, tanto de uso quanto de bloqueio e em tempo real.
 - Apresentação de estatísticas das recargas efetivadas, descarregáveis em relatórios.
 - Relatórios resumidos e detalhados por veículo / dia.
 
