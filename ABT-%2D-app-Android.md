@@ -5,9 +5,13 @@ O significado de ABT é Account Base Ticket, e com esse aplicativo para disposit
 
 Além disso, alguns projetos ainda permitirão a compra de valores para os cartões de transporte que já possuem. 
 
-O Sistema funciona com a utilização de QRCODE, através de recargas realizadas por compra com cartões de crédito, por transferência bancárias e entre outras formas.
+O Sistema funciona com a utilização de QRCODE nos validadores V3690, através de recargas realizadas por compra através de cartões de crédito, por transferência bancárias e outras formas de pagamento.
 
-![image.png](/.attachments/image-3f8904f9-e1dc-4554-86ff-e8eee41ec3d4.png)
+![image.png](/.attachments/image-3f8904f9-e1dc-4554-86ff-e8eee41ec3d4.png)<br>
+
+Esse QRCODE gerado é lido no validador através de um leitor instalado na base do validador. Basta apresentar-lo no leitor que a catraca será liberada e a passagem descontada. Em questão de segundos você receberá uma notificação em seu aparelho celular informando a linha, a hora e o valor descontando.
+
+
 
 Ao longo deste documento lhe ensinaremos:
 
