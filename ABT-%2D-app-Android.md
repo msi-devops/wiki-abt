@@ -22,7 +22,7 @@ Em questão de segundos você receberá uma notificação em seu aparelho celula
 Ao longo deste documento lhe ensinaremos:
 
 - [Como instalar essa aplicação?](/ABT-%2D-app-Android/1.-%2D-Como-instalar-o-ABT-em-meu-celular?)
-- Como realizar um cadastro?
+- [Como realizar um cadastro?](/ABT-%2D-app-Android/2.1-%2D-Como-realizar-o-cadastro.-Parte-1)
 - Como fazer a minha primeira compra?
 - Como utilizar o dispositivo móvel?
 - Como comprar credito para meu cartão de transporte?
