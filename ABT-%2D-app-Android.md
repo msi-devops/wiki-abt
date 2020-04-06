@@ -9,7 +9,13 @@ O Sistema funciona com a utilização de QRCODE nos validadores V3690, através 
 
 ![image.png](/.attachments/image-3f8904f9-e1dc-4554-86ff-e8eee41ec3d4.png)<br>
 
-Esse QRCODE gerado é lido no validador através de um leitor instalado na base do validador. Basta apresentar-lo no leitor que a catraca será liberada e a passagem descontada. Em questão de segundos você receberá uma notificação em seu aparelho celular informando a linha, a hora e o valor descontando.
+Esse QRCODE gerado é lido no validador através de um leitor instalado na base do validador. Basta apresentar-lo no leitor que a catraca será liberada e a passagem descontada.<br>
+![image.png](/.attachments/image-40185a6f-5bfb-4f5b-81c0-3759548511d7.png)<br>
+
+
+
+Em questão de segundos você receberá uma notificação em seu aparelho celular informando a linha, a hora e o valor descontando.
+
 
 
 
