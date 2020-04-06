@@ -23,7 +23,7 @@ Ao longo deste documento lhe ensinaremos:
 
 - [Como instalar essa aplicação?](/ABT-%2D-app-Android/1.-%2D-Como-instalar-o-ABT-em-meu-celular?)
 - [Como realizar um cadastro?](/ABT-%2D-app-Android/2.1-%2D-Como-realizar-o-cadastro.-Parte-1)
-- Como fazer a minha primeira compra?
+- [Como fazer a minha primeira compra?](/ABT-%2D-app-Android/3.1-%2D-Primeira-compra)
 - Como utilizar o dispositivo móvel?
 - Como comprar credito para meu cartão de transporte?
 - Como alterar minha senha?
