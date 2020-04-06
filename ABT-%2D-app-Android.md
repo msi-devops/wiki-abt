@@ -7,7 +7,7 @@ Além disso, alguns projetos ainda permitirão a compra de valores para os cart�
 
 Ao longo deste documento lhe ensinaremos:
 
-- [Como instalar essa aplicação?](/Martonis/ABT-%2D-app-Android/1.-Como-instalar-o-ABT-em-meu-celular?)
+- [Como instalar essa aplicação?](/ABT-%2D-app-Android/1.-Como-instalar-o-ABT-em-meu-celular?)
 - Como realizar um cadastro?
 - Como fazer a minha primeira compra?
 - Como utilizar o dispositivo móvel?
