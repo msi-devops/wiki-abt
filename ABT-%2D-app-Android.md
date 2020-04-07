@@ -3,9 +3,9 @@ Olá visitante,
 Bem vindo ao Wiki de nossa aplicação Android para o sistema ABT.
 Essa sigla significa Account Base Ticket (ABT), e com esse aplicativo para dispositivos móveis é possível que o usuário do transporte coletivo possa realizar compras instantâneas de passagens e valores para que sejam utilizados no transporte público sem a obrigação da utilização de cartão de transporte. Ou seja, é possível utilizar apenas o celular para utilizar o transporte público.
 
-Além disso, alguns projetos ainda permitirão a compra de valores para os cartões de transporte que já possuem. 
+Além disso, alguns projetos ainda permitirão a compra de valores para os cartões de transporte que vocês já possuem. 
 
-O Sistema funciona com a utilização de QRCODE nos validadores que estão instalados nos ônibus, através de recargas realizadas por cartões de crédito, por transferência bancárias e outras formas de pagamento.
+O Sistema funciona com a utilização de QRCODE nos validadores, que estão instalados nos ônibus, e que são gerados através de recargas que poderão ser realizadas por cartões de crédito, transferência bancária e outras formas de pagamento.
 
 ![image.png](/.attachments/image-3f8904f9-e1dc-4554-86ff-e8eee41ec3d4.png)<br>
 
