@@ -5,7 +5,7 @@ Essa sigla significa Account Base Ticket (ABT), e com esse aplicativo para dispo
 
 Além disso, alguns projetos ainda permitirão a compra de valores para os cartões de transporte que já possuem. 
 
-O Sistema funciona com a utilização de QRCODE nos validadores V3690, através de recargas realizadas por compra através de cartões de crédito, por transferência bancárias e outras formas de pagamento.
+O Sistema funciona com a utilização de QRCODE nos validadores que estão instalados nos ônibus, através de recargas realizadas por compra através de cartões de crédito, por transferência bancárias e outras formas de pagamento.
 
 ![image.png](/.attachments/image-3f8904f9-e1dc-4554-86ff-e8eee41ec3d4.png)<br>
 
@@ -19,7 +19,7 @@ Em questão de segundos você receberá uma notificação em seu aparelho celula
 
 
 
-Ao longo deste documento lhe ensinaremos:
+Ao longo deste informativo lhe ensinaremos:
 
 - [Como instalar essa aplicação?](/ABT-%2D-app-Android/1.-Como-instalar-o-ABT-em-meu-celular?)
 - [Como realizar um cadastro?](/ABT-%2D-app-Android/2.1.-Como-realizar-o-cadastro.-Parte-1)
