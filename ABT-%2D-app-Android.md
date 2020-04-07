@@ -16,7 +16,7 @@ Esse QRCODE, acima segue um exemplo de como ele será, será lido através de um
 
 Em questão de segundos você receberá uma notificação em seu aparelho celular informando a linha, a hora e o valor descontando. 
 
-O sistema também permitirá a integração entre linhas e ônibus, ou seja, sua utilização será idêntica ao uso dos cartões que já são conhecidos.
+O sistema também permitirá a integração entre linhas e ônibus, ou seja, sua utilização será idêntica ao uso dos cartões que já são conhecidos.<br><br>
 
 
 
