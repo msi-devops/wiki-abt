@@ -24,7 +24,7 @@ O sistema também permitirá a integração entre linhas e ônibus, ou seja, sua
 Ao longo deste informativo lhe ensinaremos:
 
 - [Como instalar essa aplicação?](/ABT-%2D-app-para-uso-no-transporte-público/1.-Como-instalar-o-ABT-em-meu-celular?)
-- [Como realizar um cadastro?](/ABT-%2D-app-para-uso-no-transporte-público/2.-Cadastrando-sua-conta-de-acesso/2.1.-Complementação-do-cadastro-%2D-Parte-1)
+- [Como realizar um cadastro?](/ABT-%2D-app-para-uso-no-transporte-público/2.-Cadastrando-sua-conta-de-acesso/2.1.-Fazendo-seu-pré-cadastro-)
 - [Como fazer a minha primeira compra?](/ABT-%2D-app-para-uso-no-transporte-público/3.-Primeira-compra)
 - [Como cadastrar meu cartão de transporte?](/ABT-%2D-app-para-uso-no-transporte-público/6.-Cadastrando-um-cartão-de-transporte) E [Como comprar créditos para ele?](/ABT-%2D-app-para-uso-no-transporte-público/6.-Cadastrando-um-cartão-de-transporte/6.1-Comprando-para-um-cartão-de-transporte)
 - [Como alterar minha senha?](/ABT-%2D-app-para-uso-no-transporte-público/7.-Outras-funcionalidades-da-aplicação/7.1.-Trocar-de-senha) [E quais são as outras opções?](/ABT-%2D-app-para-uso-no-transporte-público/7.-Outras-funcionalidades-da-aplicação)
