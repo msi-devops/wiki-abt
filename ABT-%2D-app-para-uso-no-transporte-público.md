@@ -10,7 +10,7 @@ O Sistema funciona com a utilização de QRCODE nos validadores, que estão inst
 [![image.png](/.attachments/image-3f8904f9-e1dc-4554-86ff-e8eee41ec3d4.png)](https://pt.wikipedia.org/wiki/C%C3%B3digo_QR)<br>
 
 Esse QRCODE, acima segue um exemplo de como ele será, será lido através de um leitor instalado na base do validador. Para isso, basta apresentar-lo próximo ao leitor que a catraca será liberada e a passagem será desconta descontada em tempo real da sua carteira virtual.<br>
-![image.png](/.attachments/image-40185a6f-5bfb-4f5b-81c0-3759548511d7.png)<br>
+[![image.png](/.attachments/image-40185a6f-5bfb-4f5b-81c0-3759548511d7.png)](http://www.prodatamobility.com.br/solucoes/?lang=en#sbe)<br>
 
 
 
