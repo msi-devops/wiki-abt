@@ -5,9 +5,9 @@ Essa sigla significa Account Base Ticket (ABT), e com esse aplicativo para dispo
 
 Além disso, alguns projetos ainda permitirão a compra de valores para os cartões de transporte que vocês já possuem. 
 
-O Sistema funciona com a utilização de [QRCODE](https://pt.wikipedia.org/wiki/C%C3%B3digo_QR) nos validadores, que estão instalados nos ônibus, e que são gerados através de recargas que poderão ser realizadas por cartões de crédito, transferência bancária e outras formas de pagamento. Isso ocorre de forma prática e dinâmica, facilitando o uso do transporte em seu dia a dia.
+O Sistema funciona com a utilização de QRCODE nos validadores, que estão instalados nos ônibus, e que são gerados através de recargas que poderão ser realizadas por cartões de crédito, transferência bancária e outras formas de pagamento. Isso ocorre de forma prática e dinâmica, facilitando o uso do transporte em seu dia a dia.
 
-![image.png](/.attachments/image-3f8904f9-e1dc-4554-86ff-e8eee41ec3d4.png)<br>
+[![image.png](/.attachments/image-3f8904f9-e1dc-4554-86ff-e8eee41ec3d4.png)](https://pt.wikipedia.org/wiki/C%C3%B3digo_QR)<br>
 
 Esse QRCODE, acima segue um exemplo de como ele será, será lido através de um leitor instalado na base do validador. Para isso, basta apresentar-lo próximo ao leitor que a catraca será liberada e a passagem será desconta descontada em tempo real da sua carteira virtual.<br>
 ![image.png](/.attachments/image-40185a6f-5bfb-4f5b-81c0-3759548511d7.png)<br>
